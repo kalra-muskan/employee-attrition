@@ -65,8 +65,7 @@ The interactive Power BI dashboard was created with drill-down capability. It wa
    ![turnover](https://github.com/kalra-muskan/employee-attrition/assets/142618498/79cfb96d-4964-4d8e-9fa2-d493c38b0555)
  
 
-The dashboard can be downloaded and viewed as a Power BI file (`hr_dashboard.pbix`).
-      
+The dashboard can be downloaded and viewed as a Power BI file: [here](https://github.com/kalra-muskan/employee-attrition/blob/main/HR-dashboard.pbix)
 ## Recommendations
 - Improve satisfaction via flexible policies, career growth  
 - Enable remote work for eligible roles
